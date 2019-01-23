@@ -1,2 +1,0 @@
-# BarnsleyFern
-Amazing Fractal.
