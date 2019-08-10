@@ -40,8 +40,8 @@ function drawPoint() {
   
   stroke(0,255,0);
   strokeWeight(1);
-  var px=map(x,-8,8,0,width);
-  var py=map(y,0,12,height,0);
+  var px=map(x,-8,8,0,600);
+  var py=map(y,0,12,600,0);
   point(px,py);
 }
 function draw()
