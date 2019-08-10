@@ -1,7 +1,7 @@
 var x=0;
 var y=0;
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(windowWidth, windowHeight);
   background(0);
 }
 function nextPoint()
