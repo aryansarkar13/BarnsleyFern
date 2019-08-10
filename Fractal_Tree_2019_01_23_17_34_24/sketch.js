@@ -4,7 +4,7 @@ function setup()
 
 {
    
-createCanvas(400,400);
+createCanvas(windowWidth,windowHeight);
 	 
 slider=createSlider(6,PI*3,PI/6);
 
